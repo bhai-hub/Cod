@@ -23,6 +23,7 @@ Create a personal portfolio website using HTML and CSS to showcase your skills, 
    - Created a navigation menu that allows users to easily navigate through different sections of the portfolio.
   
 5. **Link:** https://taupe-jalebi-75a597.netlify.app/
+6. **Repo:**  https://github.com/bhai-hub/Portfolio99.git
 
 ### Task 2: Create Landing Page Using HTML, CSS, and JS
 
@@ -43,8 +44,8 @@ Design and implement a landing page using HTML, CSS, and JavaScript to promote a
 4. **Responsive Design:**
    - Ensured the landing page is responsive and looks good on various devices.
 
-  
 5. **Link:** https://stirring-crepe-69d3d1.netlify.app/
+6. **Repo:**  https://github.com/bhai-hub/LandingPage.git
 
 ### Task 3: Create Calculator Using HTML, CSS, and JS
 
