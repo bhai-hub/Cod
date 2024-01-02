@@ -1,4 +1,4 @@
-Certainly! Below is a detailed description of the tasks you completed during your internship at Codsoft:
+Certainly! Below is a detailed description of the tasks I have completed during my internship at Codsoft:
 
 ### Task 1: Create Portfolio Using HTML and CSS
 
@@ -70,4 +70,4 @@ Develop a web-based calculator using HTML, CSS, and JavaScript for performing ba
    - Conducted testing to ensure the calculator functions accurately and handles edge cases.
    - Link : - https://extraordinary-mandazi-4e6132.netlify.app/
 
-These tasks demonstrate a range of skills, including HTML and CSS for creating structured and visually appealing web pages, as well as JavaScript for adding interactivity and functionality to enhance the user experience. Well done on completing these tasks during your internship at Codsoft!
+These tasks demonstrate a range of skills, including HTML and CSS for creating structured and visually appealing web pages, as well as JavaScript for adding interactivity and functionality to enhance the user experience.
